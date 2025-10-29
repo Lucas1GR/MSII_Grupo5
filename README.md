@@ -4,3 +4,10 @@ Grupo 5
 **Nombre**: Ayelen Pereira
 **Usuario de GitHub**: Ayepereira
 **Contribución**: Colaboradora, cree rama y realice cambios.
+
+# Integrantes y aportes
+
+**Nombre:** Lucas Romero  
+**Usuario de GitHub:** Lucas1GR  
+**Contribución:** Líder del grupo, creador del repositorio y encargado de los merges.
+
