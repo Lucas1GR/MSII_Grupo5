@@ -1,11 +1,14 @@
 # MSII_Grupo5
-Grupo 5
-# Integrantes y aportes
-**Nombre**: Ayelen Pereira
-**Usuario de GitHub**: Ayepereira
-**Contribución**: Colaboradora, cree rama y realice cambios.
 
-# Integrantes y aportes
+Grupo 5
+
+# Integrante y aportes
+
+**Nombre:** Ayelen Pereira
+**Usuario de GitHub:** Ayepereira
+**Contribución:** Colaboradora, cree rama y realice cambios.
+
+# Integrante y aportes
 
 **Nombre:** Lucas Romero  
 **Usuario de GitHub:** Lucas1GR  
