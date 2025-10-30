@@ -4,7 +4,7 @@ Grupo 5
 
 ---
 
-# Integrante y aportes
+# Integrantes y aportes
 
 
 **Nombre:** Lucas Romero  
@@ -16,5 +16,6 @@ Grupo 5
 **Nombre:** Ayelen Pereira
 **Usuario de GitHub:** [Ayepereira](https://github.com/Ayepereira)
 **Contribución:** Colaboradora, cree rama y realice cambios.
+
 
 
