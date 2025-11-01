@@ -15,4 +15,4 @@
 
 ### Rocio Soledad Rojas
 * Usuario de GitHub** [solcito90](https://github.com/solcito90)
-* Contribución:** Colaborador, crea rama.
+* Contribución:** Colaborador, crea rama, y solucioné mi conflicto.
