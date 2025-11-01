@@ -11,8 +11,8 @@
 
 ### Justo Sánchez
 * Usuario de GitHub [justosanchez12](https://github.com/justosanchez123)
-* Contribución:** Colaborador, crea rama y estiliza el Readme.
+* Contribución: Colaborador, crea rama y estiliza el Readme.
 
 ### Rocio Soledad Rojas
 * Usuario de GitHub** [solcito90](https://github.com/solcito90)
-* Contribución:** Colaborador, crea rama, y solucioné mi conflicto.
+* Contribución: Colaborador, crea rama, y solucioné mi conflicto.
